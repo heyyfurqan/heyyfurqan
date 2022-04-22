@@ -23,6 +23,9 @@
 # ⚡ My Tech Stack
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
 
+# 📈 GitHub Activity Graph:
+![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=heyyfurqan&hide_border=true&theme=redical)
+
 # 🚀 My Stats
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyyfurqan&show_icons=true&theme=aura)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyyfurqan&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
