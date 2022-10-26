@@ -35,4 +35,4 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyyfurqan&repo=cs50)
 
 # ✉️ Contact Me Via
-- <p>My <a href="mailto:thisismefurqan@gmail.com">email</a>.</p>
+- <p>My email : <a href="mailto:thisismefurqan@gmail.com">thisismefurqan@gmail.com</a></p>
