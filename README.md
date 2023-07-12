@@ -9,16 +9,16 @@
 
 <div style="display: flex;
   justify-content: space-between;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Furqan;A+Final+Year+Computer+Science+Student;Front-End+Developer;Currently+learning+solidity">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Furqan;A+Final+Year+Computer+Science+Student;Front-End+Developer;UI/UX+Designer;Currently+learning+React">
   <img src="https://media1.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" align = "right">
 </div>
 
 # 👨‍💻 About Me
 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning React.
 - 💬 Ask me anything about MERN stack and its technologies.
 - 😄 Pronouns: He / Him.
-- 📚 8th semester at UET, Lahore.
+- 📚 CS'19 at UET, Lahore.
 
 # ⚡ My Tech Stack
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
