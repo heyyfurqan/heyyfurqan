@@ -24,7 +24,7 @@
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Creact%2Cnodedotjs%2Cgo%2Cpython%2Csolidity&preset=default&shadow=true&width=200)
 
 # 📈 GitHub Activity Graph:
-![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=heyyfurqan&hide_border=true&theme=redical)
+![Furqan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyyfurqan&bg_color=0d1117&color=4cd331&line=45b83d&point=5c4d4d&area=true&hide_border=true)
 
 # 🚀 My Stats
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyyfurqan&show_icons=true&theme=aura)
